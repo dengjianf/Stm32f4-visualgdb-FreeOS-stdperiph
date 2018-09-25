@@ -1,5 +1,4 @@
-Debug/stm32f4xx_flash.o: \
- C:\Users\dengjian\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F4xxxx/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.c \
+Debug/stm32f4xx_flash.o: STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.c \
  C:\Users\dengjian\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F4xxxx/STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_flash.h \
  C:\Users\dengjian\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F4xxxx/CMSIS_StdPeriph/Device/ST/STM32F4xx/Include/stm32f4xx.h \
  C:/Users/dengjian/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F4xxxx/CMSIS_HAL/Include/core_cm4.h \

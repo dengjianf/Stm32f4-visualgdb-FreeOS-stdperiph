@@ -1,5 +1,7 @@
 #include <stm32f4xx.h>	 
 #include <stm32f4xx_conf.h>
+#include "FreeRTOS.h"
+#include "FreeRTOSConfig.h"
 
 void Delay()
 {

@@ -1,5 +1,4 @@
-Debug/misc.o: \
- C:\Users\dengjian\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F4xxxx/STM32F4xx_StdPeriph_Driver/src/misc.c \
+Debug/misc.o: STM32F4xx_StdPeriph_Driver/src/misc.c \
  C:\Users\dengjian\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F4xxxx/STM32F4xx_StdPeriph_Driver/inc/misc.h \
  C:\Users\dengjian\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F4xxxx/CMSIS_StdPeriph/Device/ST/STM32F4xx/Include/stm32f4xx.h \
  C:/Users/dengjian/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F4xxxx/CMSIS_HAL/Include/core_cm4.h \

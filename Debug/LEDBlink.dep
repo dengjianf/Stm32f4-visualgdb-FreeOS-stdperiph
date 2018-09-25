@@ -23,4 +23,10 @@ Debug/LEDBlink.o: LEDBlink.c \
  C:\Users\dengjian\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F4xxxx/STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_tim.h \
  C:\Users\dengjian\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F4xxxx/STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_usart.h \
  C:\Users\dengjian\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F4xxxx/STM32F4xx_StdPeriph_Driver/inc/misc.h \
- C:\Users\dengjian\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F4xxxx/STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_can.h
+ C:\Users\dengjian\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F4xxxx/STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_can.h \
+ FreeRTOS/include/FreeRTOS.h \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\7.2.0\include\stddef.h \
+ FreeRTOS/include/FreeRTOSConfig.h FreeRTOS/include/projdefs.h \
+ FreeRTOS/include/portable.h FreeRTOS/include/deprecated_definitions.h \
+ FreeRTOS/portable/GCC/ARM_CM0/portmacro.h \
+ FreeRTOS/include/mpu_wrappers.h FreeRTOS/include/FreeRTOSConfig.h

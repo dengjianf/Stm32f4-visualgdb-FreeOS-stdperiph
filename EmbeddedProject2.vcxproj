@@ -69,6 +69,7 @@
     <ClCompile Include="FreeRTOS\croutine.c" />
     <ClCompile Include="FreeRTOS\event_groups.c" />
     <ClCompile Include="FreeRTOS\list.c" />
+    <ClCompile Include="FreeRTOS\portable\GCC\ARM_CM3\port.c" />
     <ClCompile Include="FreeRTOS\queue.c" />
     <ClCompile Include="FreeRTOS\tasks.c" />
     <ClCompile Include="FreeRTOS\timers.c" />

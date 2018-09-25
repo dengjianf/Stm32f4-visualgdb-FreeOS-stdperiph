@@ -193,6 +193,9 @@
     <ClCompile Include="STM32F4xx_StdPeriph_Driver\src\stm32f4xx_wwdg.c">
       <Filter>Source files\Device-specific files\StdPeriph</Filter>
     </ClCompile>
+    <ClCompile Include="FreeRTOS\portable\GCC\ARM_CM3\port.c">
+      <Filter>Source files\Device-specific files\FreeRTOS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Makefile" />

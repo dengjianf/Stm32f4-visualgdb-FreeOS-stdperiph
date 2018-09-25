@@ -1,0 +1,6 @@
+﻿  VisualGDB: Run "cmd.exe /c "C:\SysGCC\arm-eabi\bin\make.exe" CONFIG=Debug" in directory "E:\MyProject\Stm32f4-visualgdb-FreeOS-stdperiph" on local computer
+  make: Nothing to be done for `all'.
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 1548 bytes out of 1024KB (0%)
+  Used SRAM: 28 bytes out of 128KB (0%)
+  Used CCMRAM: 0 bytes out of 64KB (0%)
